@@ -1,25 +1,25 @@
-CREATE DATABASE mp_english_db;
+CREATE DATABASE mp_english_db CHARACTER SET=utf8;
 use mp_english_db;
 -- 用户表
-CREATE TABLE mp_english_Users (
-  Id INT PRIMARY KEY AUTO_INCREMENT NOT NULL,
-  Username VARCHAR(50),
-  Password VARCHAR(50),
-  WxOpenId VARCHAR(50),
-  UserType INT -- 0:普通用户,1:老师
+CREATE TABLE mp_english_users (
+  id INT PRIMARY KEY AUTO_INCREMENT NOT NULL,
+  username VARCHAR(50),
+  password VARCHAR(50),
+  wx_open_id VARCHAR(50),
+  user_type INT -- 0:普通用户,1:老师
 );
 -- 课程表
-CREATE TABLE mp_english_Lessons (
-  Id INT PRIMARY KEY AUTO_INCREMENT NOT NULL,
-  LessonName VARCHAR(20),
-  Memo VARCHAR(500),
-  CreatorId INT -- 创建人
+CREATE TABLE mp_english_lessons (
+  id INT PRIMARY KEY AUTO_INCREMENT NOT NULL,
+  lesson_name VARCHAR(20),
+  memo VARCHAR(500),
+  creator_id INT -- 创建人
 );
 
 -- 课程内容(知识条目)
-CREATE TABLE mp_english_Less_Knowledge (
-  Id INT PRIMARY KEY AUTO_INCREMENT NOT NULL,
-  VoiceUrl VARCHAR(500),
-  ImageUrl VARCHAR(500),
-  LessonId INT -- 课程ID
+CREATE TABLE mp_english_less_knowledge (
+  id INT PRIMARY KEY AUTO_INCREMENT NOT NULL,
+  voice_url VARCHAR(500),
+  image_url VARCHAR(500),
+  lesson_id INT -- 课程ID
 );
