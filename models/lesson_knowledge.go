@@ -3,6 +3,7 @@ package models
 // LessonKnowledge is a Model struct
 type LessonKnowledge struct {
 	ID       int
+	Word     string
 	VoiceURL string
 	ImageURL string
 	LessonID int

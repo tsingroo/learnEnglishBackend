@@ -13,7 +13,7 @@ type UserController struct {
 }
 
 func (u *UserController) Get() {
-	u.Ctx.WriteString("get user")
+	
 }
 
 func (u *UserController) Post() {
