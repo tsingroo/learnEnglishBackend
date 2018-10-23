@@ -1,27 +1,28 @@
 -- KnowLedge数据插入--ID,Word,voice_url,image_url,lesson_id
 -- A
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('apple', '', '', 1);
+VALUES('apple', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-23/9404078.jpg', 1);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('angry', '', '', 1);
+VALUES('ant', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-23/4908669.jpg', 1);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('ant', '', '', 1);
+VALUES('ankle', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-23/4750883.jpg', 1);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('animal', '', '', 1);
+VALUES('ambulance', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-23/40963923.jpg', 1);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('ambulance', '', '', 1);
+VALUES('actor', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-23/78103834.jpg', 1);
+
 
 -- B
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('', '', '', 2);
+VALUES('bag', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-23/4681870.jpg', 2);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('', '', '', 2);
+VALUES('ball', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-23/35137711.jpg', 2);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('', '', '', 2);
+VALUES('bear', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-23/76388189.jpg', 2);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('', '', '', 2);
+VALUES('butterfly', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-23/63455226.jpg', 2);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('', '', '', 2);
+VALUES('banana', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-23/97849280.jpg', 2);
 
 -- C
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
