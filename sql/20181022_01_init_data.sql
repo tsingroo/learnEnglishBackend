@@ -28,8 +28,3 @@ INSERT INTO mp_english_lessons VALUES(23, 'W' , 'http://ph1cnfby2.bkt.clouddn.co
 INSERT INTO mp_english_lessons VALUES(24, 'X' , 'http://ph1cnfby2.bkt.clouddn.com/18-10-23/29849998.jpg', 'Word X', 1);
 INSERT INTO mp_english_lessons VALUES(25, 'Y' , 'http://ph1cnfby2.bkt.clouddn.com/18-10-23/23572392.jpg', 'Word Y', 1);
 INSERT INTO mp_english_lessons VALUES(26, 'Z' , 'http://ph1cnfby2.bkt.clouddn.com/18-10-23/61867176.jpg', 'Word Z', 1);
-
-
--- KnowLedge数据插入
-INSERT INTO mp_english_less_knowledge 
-VALUES();
