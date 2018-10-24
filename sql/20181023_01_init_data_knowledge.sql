@@ -168,75 +168,75 @@ VALUES('nurse', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/96335275.jpg', 14
 
 -- O
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('', '', '', 15);
+VALUES('orange', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/36403151.jpg', 15);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('', '', '', 15);
+VALUES('office', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/95485875.jpg', 15);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('', '', '', 15);
+VALUES('ox', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/46741436.jpg', 15);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('', '', '', 15);
+VALUES('ostrich', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/51912477.jpg', 15);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('', '', '', 15);
+VALUES('octopus', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/49115998.jpg', 15);
 
 -- P
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('', '', '', 16);
+VALUES('penguin', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/84999861.jpg', 16);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('', '', '', 16);
+VALUES('pond', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/37835854.jpg', 16);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('', '', '', 16);
+VALUES('pencil', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/35920200.jpg', 16);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('', '', '', 16);
+VALUES('pail', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/9249326.jpg', 16);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('', '', '', 16);
+VALUES('pear', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/70926690.jpg', 16);
 
 -- Q
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('', '', '', 17);
+VALUES('quilt', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/78806835.jpg', 17);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('', '', '', 17);
+VALUES('quiet', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/39272254.jpg', 17);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('', '', '', 17);
+VALUES('question', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/21143775.jpg', 17);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('', '', '', 17);
+VALUES('quack', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/59965167.jpg', 17);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('', '', '', 17);
+VALUES('queen', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/82314280.jpg', 17);
 
 -- R
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('', '', '', 18);
+VALUES('rabbit', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/22516341.jpg', 18);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('', '', '', 18);
+VALUES('ruler', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/83704539.jpg', 18);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('', '', '', 18);
+VALUES('robot', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/29589655.jpg', 18);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('', '', '', 18);
+VALUES('rectangle', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/89766706.jpg', 18);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('', '', '', 18);
+VALUES('rain', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/83185429.jpg', 18);
 
 -- S
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('', '', '', 19);
+VALUES('sun', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/89464981.jpg', 19);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('', '', '', 19);
+VALUES('socks', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/65223944.jpg', 19);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('', '', '', 19);
+VALUES('soap', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/66287446.jpg', 19);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('', '', '', 19);
+VALUES('sailor', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/15813551.jpg', 19);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('', '', '', 19);
+VALUES('seal', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/91683928.jpg', 19);
 
 -- T
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('', '', '', 20);
+VALUES('tiger', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/5858730.jpg', 20);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('', '', '', 20);
+VALUES('towel', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/36533971.jpg', 20);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('', '', '', 20);
+VALUES('telephone', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/66723212.jpg', 20);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('', '', '', 20);
+VALUES('table', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/59886746.jpg', 20);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('', '', '', 20);
+VALUES('teeth', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/20445211.jpg', 20);
 
 -- U
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
