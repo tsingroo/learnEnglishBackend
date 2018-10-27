@@ -5,5 +5,10 @@ import (
 )
 
 func init() {
-	orm.RegisterModel(new(User), new(Lesson), new(LessonKnowledge))
+	orm.RegisterModel(new(User),
+		new(Lesson),
+		new(LessonKnowledge),
+		new(Subjects),
+		new(SubjectKnowledge),
+	)
 }
