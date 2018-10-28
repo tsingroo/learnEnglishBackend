@@ -1,8 +1,8 @@
 -- subjects data
 INSERT INTO mp_english_subjects 
-VALUES(1, 'shapes are everywhere', '', 'all about shapes', 1, 1);
+VALUES(1, 'shapes are everywhere', 'http://ph1cnfby2.bkt.clouddn.com/18-10-27/84976487.jpg', 'all about shapes', 1, 1);
 INSERT INTO mp_english_subjects 
-VALUES(2, 'my family', '', 'my family', 2, 1);
+VALUES(2, 'my family', 'http://ph1cnfby2.bkt.clouddn.com/18-10-27/22040043.jpg', 'my family', 2, 1);
 
 -- subject knowledge data
 INSERT INTO mp_english_subject_knowledge(description, image_url, question, answer, display_order, subject_id)
