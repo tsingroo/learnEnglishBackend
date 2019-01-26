@@ -1,242 +1,242 @@
 -- KnowLedge数据插入--ID,Word,voice_url,image_url,lesson_id
 -- A
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('apple', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-23/9404078.jpg', 1);
+VALUES('apple', '', 'http://img.cdn.xingyunzhuji.cn/18-10-23/9404078.jpg', 1);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('ant', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-23/4908669.jpg', 1);
+VALUES('ant', '', 'http://img.cdn.xingyunzhuji.cn/18-10-23/4908669.jpg', 1);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('ankle', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-23/4750883.jpg', 1);
+VALUES('ankle', '', 'http://img.cdn.xingyunzhuji.cn/18-10-23/4750883.jpg', 1);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('ambulance', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-23/40963923.jpg', 1);
+VALUES('ambulance', '', 'http://img.cdn.xingyunzhuji.cn/18-10-23/40963923.jpg', 1);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('actor', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-23/78103834.jpg', 1);
+VALUES('actor', '', 'http://img.cdn.xingyunzhuji.cn/18-10-23/78103834.jpg', 1);
 
 
 -- B
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('bag', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-23/4681870.jpg', 2);
+VALUES('bag', '', 'http://img.cdn.xingyunzhuji.cn/18-10-23/4681870.jpg', 2);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('ball', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-23/35137711.jpg', 2);
+VALUES('ball', '', 'http://img.cdn.xingyunzhuji.cn/18-10-23/35137711.jpg', 2);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('bear', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-23/76388189.jpg', 2);
+VALUES('bear', '', 'http://img.cdn.xingyunzhuji.cn/18-10-23/76388189.jpg', 2);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('butterfly', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-23/63455226.jpg', 2);
+VALUES('butterfly', '', 'http://img.cdn.xingyunzhuji.cn/18-10-23/63455226.jpg', 2);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('banana', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-23/97849280.jpg', 2);
+VALUES('banana', '', 'http://img.cdn.xingyunzhuji.cn/18-10-23/97849280.jpg', 2);
 
 -- C
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('cake', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/75723132.jpg', 3);
+VALUES('cake', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/75723132.jpg', 3);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('cat', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/96644263.jpg', 3);
+VALUES('cat', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/96644263.jpg', 3);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('cup', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/85970251.jpg', 3);
+VALUES('cup', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/85970251.jpg', 3);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('cow', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/54020253.jpg', 3);
+VALUES('cow', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/54020253.jpg', 3);
 
 -- D
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('dolphin', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/60333511.jpg', 4);
+VALUES('dolphin', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/60333511.jpg', 4);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('duck', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/73988362.jpg', 4);
+VALUES('duck', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/73988362.jpg', 4);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('doll', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/97153072.jpg', 4);
+VALUES('doll', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/97153072.jpg', 4);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('door', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/6019995.jpg', 4);
+VALUES('door', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/6019995.jpg', 4);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('dog', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/99547452.jpg', 4);
+VALUES('dog', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/99547452.jpg', 4);
 
 -- E
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('elephant', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/39350934.jpg', 5);
+VALUES('elephant', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/39350934.jpg', 5);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('egg', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/14215308.jpg', 5);
+VALUES('egg', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/14215308.jpg', 5);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('end', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/22150484.jpg', 5);
+VALUES('end', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/22150484.jpg', 5);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('elbow', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/25472237.jpg', 5);
+VALUES('elbow', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/25472237.jpg', 5);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('everybody', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/11927076.jpg', 5);
+VALUES('everybody', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/11927076.jpg', 5);
 
 -- F
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('fox', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/82429769.jpg', 6);
+VALUES('fox', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/82429769.jpg', 6);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('fork', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/47678712.jpg', 6);
+VALUES('fork', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/47678712.jpg', 6);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('foot', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/36603640.jpg', 6);
+VALUES('foot', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/36603640.jpg', 6);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('fish', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/5574849.jpg', 6);
+VALUES('fish', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/5574849.jpg', 6);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('five', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/87561834.jpg', 6);
+VALUES('five', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/87561834.jpg', 6);
 
 -- G
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('goldfish', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/10937620.jpg', 7);
+VALUES('goldfish', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/10937620.jpg', 7);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('goggles', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/71799461.jpg', 7);
+VALUES('goggles', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/71799461.jpg', 7);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('goat', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/16350920.jpg', 7);
+VALUES('goat', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/16350920.jpg', 7);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('girl', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/59125704.jpg', 7);
+VALUES('girl', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/59125704.jpg', 7);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('gate', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/70787338.jpg', 7);
+VALUES('gate', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/70787338.jpg', 7);
 
 -- H
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('hat', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/94713723.jpg', 8);
+VALUES('hat', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/94713723.jpg', 8);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('hair', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/54314434.jpg', 8);
+VALUES('hair', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/54314434.jpg', 8);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('hand', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/20828884.jpg', 8);
+VALUES('hand', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/20828884.jpg', 8);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('hen', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/71748513.jpg', 8);
+VALUES('hen', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/71748513.jpg', 8);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('horse', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/11983963.jpg', 8);
+VALUES('horse', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/11983963.jpg', 8);
 
 -- I
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('igloo', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/59062275.jpg', 9);
+VALUES('igloo', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/59062275.jpg', 9);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('iguana', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/29672988.jpg', 9);
+VALUES('iguana', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/29672988.jpg', 9);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('inch', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/77671451.jpg', 9);
+VALUES('inch', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/77671451.jpg', 9);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('ink', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/31934569.jpg', 9);
+VALUES('ink', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/31934569.jpg', 9);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('insect', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/23618273.jpg', 9);
+VALUES('insect', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/23618273.jpg', 9);
 
 -- J
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('jacket', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/14729938.jpg', 10);
+VALUES('jacket', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/14729938.jpg', 10);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('jam', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/6731970.jpg', 10);
+VALUES('jam', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/6731970.jpg', 10);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('jeans', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/93571482.jpg', 10);
+VALUES('jeans', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/93571482.jpg', 10);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('jello', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/26452322.jpg', 10);
+VALUES('jello', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/26452322.jpg', 10);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('jet', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/91924772.jpg', 10);
+VALUES('jet', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/91924772.jpg', 10);
 
 -- K
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('kangaroo', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/65132104.jpg', 11);
+VALUES('kangaroo', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/65132104.jpg', 11);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('kettle', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/70971600.jpg', 11);
+VALUES('kettle', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/70971600.jpg', 11);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('king', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/89074536.jpg', 11);
+VALUES('king', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/89074536.jpg', 11);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('kite', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/31739821.jpg', 11);
+VALUES('kite', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/31739821.jpg', 11);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('kitten', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/5618271.jpg', 11);
+VALUES('kitten', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/5618271.jpg', 11);
 
 -- L
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('lion', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/85968627.jpg', 12);
+VALUES('lion', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/85968627.jpg', 12);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('lips', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/53620871.jpg', 12);
+VALUES('lips', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/53620871.jpg', 12);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('lamp', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/59577398.jpg', 12);
+VALUES('lamp', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/59577398.jpg', 12);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('lemon', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/37556213.jpg', 12);
+VALUES('lemon', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/37556213.jpg', 12);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('lizard', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/3696495.jpg', 12);
+VALUES('lizard', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/3696495.jpg', 12);
 
 -- M
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('monkey', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/50611106.jpg', 13);
+VALUES('monkey', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/50611106.jpg', 13);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('milk', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/95038677.jpg', 13);
+VALUES('milk', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/95038677.jpg', 13);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('moon', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/81166140.jpg', 13);
+VALUES('moon', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/81166140.jpg', 13);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('mop', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/37703904.jpg', 13);
+VALUES('mop', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/37703904.jpg', 13);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('mouse', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/67899499.jpg', 13);
+VALUES('mouse', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/67899499.jpg', 13);
 
 -- N
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('nose', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/57289672.jpg', 14);
+VALUES('nose', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/57289672.jpg', 14);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('newspaper', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/40287839.jpg', 14);
+VALUES('newspaper', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/40287839.jpg', 14);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('night', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/25026349.jpg', 14);
+VALUES('night', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/25026349.jpg', 14);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('noodles', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/30225816.jpg', 14);
+VALUES('noodles', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/30225816.jpg', 14);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('nurse', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/96335275.jpg', 14);
+VALUES('nurse', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/96335275.jpg', 14);
 
 -- O
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('orange', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/36403151.jpg', 15);
+VALUES('orange', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/36403151.jpg', 15);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('office', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/95485875.jpg', 15);
+VALUES('office', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/95485875.jpg', 15);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('ox', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/46741436.jpg', 15);
+VALUES('ox', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/46741436.jpg', 15);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('ostrich', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/51912477.jpg', 15);
+VALUES('ostrich', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/51912477.jpg', 15);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('octopus', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/49115998.jpg', 15);
+VALUES('octopus', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/49115998.jpg', 15);
 
 -- P
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('penguin', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/84999861.jpg', 16);
+VALUES('penguin', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/84999861.jpg', 16);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('pond', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/37835854.jpg', 16);
+VALUES('pond', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/37835854.jpg', 16);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('pencil', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/35920200.jpg', 16);
+VALUES('pencil', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/35920200.jpg', 16);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('pail', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/9249326.jpg', 16);
+VALUES('pail', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/9249326.jpg', 16);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('pear', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/70926690.jpg', 16);
+VALUES('pear', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/70926690.jpg', 16);
 
 -- Q
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('quilt', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/78806835.jpg', 17);
+VALUES('quilt', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/78806835.jpg', 17);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('quiet', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/39272254.jpg', 17);
+VALUES('quiet', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/39272254.jpg', 17);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('question', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/21143775.jpg', 17);
+VALUES('question', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/21143775.jpg', 17);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('quack', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/59965167.jpg', 17);
+VALUES('quack', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/59965167.jpg', 17);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('queen', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/82314280.jpg', 17);
+VALUES('queen', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/82314280.jpg', 17);
 
 -- R
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('rabbit', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/22516341.jpg', 18);
+VALUES('rabbit', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/22516341.jpg', 18);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('ruler', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/83704539.jpg', 18);
+VALUES('ruler', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/83704539.jpg', 18);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('robot', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/29589655.jpg', 18);
+VALUES('robot', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/29589655.jpg', 18);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('rectangle', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/89766706.jpg', 18);
+VALUES('rectangle', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/89766706.jpg', 18);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('rain', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/83185429.jpg', 18);
+VALUES('rain', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/83185429.jpg', 18);
 
 -- S
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('sun', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/89464981.jpg', 19);
+VALUES('sun', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/89464981.jpg', 19);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('socks', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/65223944.jpg', 19);
+VALUES('socks', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/65223944.jpg', 19);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('soap', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/66287446.jpg', 19);
+VALUES('soap', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/66287446.jpg', 19);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('sailor', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/15813551.jpg', 19);
+VALUES('sailor', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/15813551.jpg', 19);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('seal', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/91683928.jpg', 19);
+VALUES('seal', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/91683928.jpg', 19);
 
 -- T
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('tiger', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/5858730.jpg', 20);
+VALUES('tiger', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/5858730.jpg', 20);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('towel', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/36533971.jpg', 20);
+VALUES('towel', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/36533971.jpg', 20);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('telephone', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/66723212.jpg', 20);
+VALUES('telephone', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/66723212.jpg', 20);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('table', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/59886746.jpg', 20);
+VALUES('table', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/59886746.jpg', 20);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('teeth', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-24/20445211.jpg', 20);
+VALUES('teeth', '', 'http://img.cdn.xingyunzhuji.cn/18-10-24/20445211.jpg', 20);
 
 -- U
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
@@ -276,15 +276,15 @@ VALUES('', '', '', 23);
 
 -- X
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('six', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-23/73322026.jpg', 24);
+VALUES('six', '', 'http://img.cdn.xingyunzhuji.cn/18-10-23/73322026.jpg', 24);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('fix', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-23/19150137.jpg', 24);
+VALUES('fix', '', 'http://img.cdn.xingyunzhuji.cn/18-10-23/19150137.jpg', 24);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('fox', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-23/1174983.jpg', 24);
+VALUES('fox', '', 'http://img.cdn.xingyunzhuji.cn/18-10-23/1174983.jpg', 24);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('box', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-23/84786141.jpg', 24);
+VALUES('box', '', 'http://img.cdn.xingyunzhuji.cn/18-10-23/84786141.jpg', 24);
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
-VALUES('ox', '', 'http://ph1cnfby2.bkt.clouddn.com/18-10-23/43034020.jpg', 24);
+VALUES('ox', '', 'http://img.cdn.xingyunzhuji.cn/18-10-23/43034020.jpg', 24);
 
 -- Y
 INSERT INTO mp_english_less_knowledge(Word,voice_url,image_url,lesson_id) 
